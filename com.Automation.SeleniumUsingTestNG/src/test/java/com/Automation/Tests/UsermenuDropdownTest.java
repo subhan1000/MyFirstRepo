@@ -11,8 +11,10 @@ import com.Automation.Base.BaseSalesForce;
 
 public class UsermenuDropdownTest extends BaseSalesForce {
 	
+	//TC6 is not working for POM framework.
+	
 	@BeforeMethod
-@Test
+	@Test
 	public void TC5_UserMenuListVerification() throws Exception
 	{
 	
