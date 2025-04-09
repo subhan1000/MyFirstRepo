@@ -19,6 +19,7 @@ import com.Automation.Utility.PropertiesUtility;
 
 public class LoginTest extends BaseSalesForce{
 	
+	//Priority in -ve nos executes first.
 	
 	@Test(priority = 1)
 	public void TC0_PasswordErrormsg() throws InterruptedException
