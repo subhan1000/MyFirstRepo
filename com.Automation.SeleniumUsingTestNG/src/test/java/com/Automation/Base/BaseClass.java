@@ -22,6 +22,7 @@ public class BaseClass {
 	 public static WebDriverWait wait = null;
 	 public static String today = LocalDate.now().format(DateTimeFormatter.ofPattern("d"));
 
+	//This method will lanch the Browser.
 	public static void LaunchBrowser(String browserName) {
 		
 		switch (browserName.toLowerCase()) {
