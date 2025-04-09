@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T20:25:23 EDT" name="Default suite" finished-at="2025-04-08T20:25:36 EDT" duration-ms="13623">
+    <groups>
+    </groups>
+    <test started-at="2025-04-08T20:25:23 EDT" name="Default test" finished-at="2025-04-08T20:25:36 EDT" duration-ms="13623">
+      <class name="com.Automation.Tests.AccountTest">
+        <test-method is-config="true" signature="FastMethod()[pri:0, instance:com.Automation.Tests.AccountTest@4082ba93]" started-at="2025-04-08T20:25:23 EDT" name="FastMethod" finished-at="2025-04-08T20:25:25 EDT" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FastMethod -->
+        <test-method signature="TC10_CreateAccount()[pri:0, instance:com.Automation.Tests.AccountTest@4082ba93]" started-at="2025-04-08T20:25:25 EDT" name="TC10_CreateAccount" finished-at="2025-04-08T20:25:34 EDT" duration-ms="9667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_CreateAccount -->
+        <test-method is-config="true" signature="LastMethod()[pri:0, instance:com.Automation.Tests.AccountTest@4082ba93]" started-at="2025-04-08T20:25:34 EDT" name="LastMethod" finished-at="2025-04-08T20:25:36 EDT" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastMethod -->
+      </class> <!-- com.Automation.Tests.AccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
