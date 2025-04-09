@@ -25,6 +25,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 
+	//Below are the commented code
 	//protected LoginPage Lpage = new LoginPage(driver);
 	//protected HomePage Hpage = new HomePage(driver);
 
