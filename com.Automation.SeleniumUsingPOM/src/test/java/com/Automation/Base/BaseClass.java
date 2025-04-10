@@ -287,21 +287,7 @@ public class BaseClass {
 		}
 		
 	//===================================================================================================================
-		
-		//ACCOUNT-TEST
-		
-		public void Account_Link() throws InterruptedException
-		{
-			WebElement imagehome = driver.findElement(By.xpath("//*[@id=\"AllTab_Tab\"]/a/img"));
-			imagehome.click();
-			Thread.sleep(500);
-			
-			WebElement account = driver.findElement(By.xpath("//*[@id=\"bodyCell\"]/div[3]/div[2]/table/tbody/tr[1]/td[1]/a"));
-			account.click();
-			Thread.sleep(500);
-		}
-	//================================================================================================================
-		
+	
 		//OPERTUNITY TEST
 		
 		public void oppertunity_Tab()
