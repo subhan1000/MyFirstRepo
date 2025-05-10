@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.Android.Demo</groupId>
+  <artifactId>com.Appium.Android.Demo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+		  <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+		<dependency>
+		    <groupId>io.appium</groupId>
+		    <artifactId>java-client</artifactId>
+		    <version>9.4.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.Automation.Selenium</groupId>
+			<artifactId>com.Automation.SeleniumUsingTestNG</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+  		<groupId>com.Selenium</groupId>
+  		<artifactId>com.Selenium.Day1</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	
+  	<dependency> 
+		<groupId>org.apache.logging.log4j</groupId> 
+		<artifactId>log4j-core</artifactId> 
+		<version>2.21.1</version> 
+	</dependency>
+  </dependencies>
+  
+</project>
