@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "accountno": {
+        "type": "string"
+      },
+      "departmentno": {},
+      "salary": {},
+      "pincode": {},
+      "userid": {
+        "type": "string"
+      },
+      "id": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "accountno",
+      "departmentno",
+      "salary",
+      "pincode",
+      "userid",
+      "id"
+    ]
+  }
+}
