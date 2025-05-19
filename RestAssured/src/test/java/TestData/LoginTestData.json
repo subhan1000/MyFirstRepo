@@ -1,0 +1,31 @@
+{
+	"payload": {
+		"login":{
+			"username": "feb2025.subhashree@tekarch.com",
+			"password": "Admin123"
+		},
+		"addData":{
+			"accountno":"gsgdfd4-SN",		
+			 "departmentno": "7", 
+			 "salary": "3454546", 
+			 "pincode": "757544"
+		},
+		"updateUser":{
+			"accountno": "gsgdfd4-CN",
+		    "departmentno": "7",
+		    "salary": "3404559",
+		    "pincode": "757544",
+		    "userId": "GZWyTijuutGpUpRrQ8hH",
+		    "id": "jiEotsfJbRVRDx5J0IEl"
+		}
+	},
+	
+	"statusCode": {
+		"loginRes": 201,
+		"getUsersRes": 200,
+		"addDataRes": 201,
+		"deleteData": 204
+	}
+	
+
+}
